@@ -1,0 +1,38 @@
+* {box-sizing: border-box;}
+
+body {
+	margin: 0;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+.button {
+	background: #53d5fd;
+	color: white;
+	padding: 15px 32px;
+	display: inline-block;
+	border-radius: 10%;
+	margin: 10px auto;
+	text-decoration: none;
+	text-align: center;
+}
+
+/*────────────────── 
+       day 1
+──────────────────*/
+
+.parentDay1 {
+	width: 80%;
+	background: dodgerblue;
+	color: white;
+	margin: 0 auto;
+}
+
+.childDay1 {
+	width: 50%;
+	padding: 1em;
+}
+
+/*────────────────── 
+       day 2
+──────────────────*/
