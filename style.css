@@ -22,7 +22,7 @@ body {
 ──────────────────*/
 
 .parentDay1 {
-	width: 80%;
+	width: 90%;
 	background: dodgerblue;
 	color: white;
 	margin: 0 auto;
@@ -31,6 +31,7 @@ body {
 .childDay1 {
 	width: 50%;
 	padding: 1em;
+	text-align: left;
 }
 
 /*────────────────── 
