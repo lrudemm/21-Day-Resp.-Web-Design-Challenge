@@ -6,6 +6,19 @@ body {
 	text-align: center;
 }
 
+.homePage {
+	width: 80%;
+	text-align: left;
+	padding: 10px;
+	background: #d6d6d6;
+	margin: 0 auto;
+}
+
+.homeAnchor {
+	padding: 5px 0;
+}
+
+
 .button {
 	background: #53d5fd;
 	color: white;
